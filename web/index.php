@@ -6,6 +6,9 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.2/moment.min.js"></script>
 
+<!-- Promises PolyFill -->
+<script src="/js/Promise.min.js"></script>
+
 <!-- Include the ViewSelector2 component script. -->
 <script src="/public/javascript/embed-api/components/view-selector2.js"></script>
 
