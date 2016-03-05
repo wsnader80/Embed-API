@@ -30,16 +30,9 @@
 </script>
 
 <div id="embed-api-auth-container"></div>
-<div id="view-selector-container"></div>
-<div id="active-users-container"></div>
-<div id="chart-1-container"></div>
-<div id="legend-1-container"></div>
-<div id="chart-2-container"></div>
-<div id="legend-2-container"></div>
-<div id="chart-3-container"></div>
-<div id="legend-3-container"></div>
-<div id="chart-4-container"></div>
-<div id="legend-4-container"></div>
+<div id="view-selector"></div>
+<div id="timeline"></div>
+
 
 <script>
 
